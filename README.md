@@ -41,13 +41,13 @@ A console-based Health and Fitness Tracker built using C++ that helps users moni
 ## 📸 Preview
 
 ### User Creation
-![User Creation](user creation.png)
+![User Creation](user-creation.png)
 
 ### Sign-In
 ![Sing-In](sign-in.png)
 
 ### Main Menu
-![Main Menu](main menu.png)
+![Main Menu](menu.png)
 
 ---
 
