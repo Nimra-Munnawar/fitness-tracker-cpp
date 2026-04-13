@@ -1,10 +1,10 @@
-# 💪 Health & Fitness Tracker (C++)
+# Health & Fitness Tracker (C++)
 
 A console-based Health and Fitness Tracker built using C++ that helps users monitor their fitness activities, goals, and daily habits.
 
 ---
 
-## 🚀 Features
+## Features
 
 - User account system (Sign up / Sign in)
 - 🥉 Bronze, 🥈 Silver, 🥇 Gold membership levels
@@ -17,7 +17,7 @@ A console-based Health and Fitness Tracker built using C++ that helps users moni
 
 ---
 
-## 🧠 Data Structures & Concepts Used
+## Data Structures & Concepts Used
 
 - Binary Search Tree (BST) → stores activity history (sorted by time)
 - Stack → tracks activity actions
@@ -31,14 +31,14 @@ A console-based Health and Fitness Tracker built using C++ that helps users moni
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - C++
 - Standard Template Library (STL)
 
 ---
 
-## 📸 Preview
+## Preview
 
 ### User Creation
 ![User Creation](user-creation.png)
@@ -51,7 +51,7 @@ A console-based Health and Fitness Tracker built using C++ that helps users moni
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project helped me understand:
 - Implementation of real-world systems using data structures
